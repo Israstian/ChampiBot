@@ -1,0 +1,259 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593978628210@s.whatsapp.net',
+    fromMe: false,
+    id: 'DF9180BABFB2E3019954FB73F2B64EFF',
+    participant: undefined
+  },
+  messageTimestamp: 1731927600,
+  pushName: 'Isra',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '593978628210'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bf9e5217-327b-4bfc-8c39-8d554f5853cc',
+  keyword: 'key_c246309c-c97d-47cb-a594-a99a188b94c8',
+  answer: 'Hola soy champi, dime ¿en que puedo ayudarte? escribe "*menú*" para ver las diferentes opciones que te tengo',
+  options: {
+    media: 'https://live.staticflickr.com/65535/53990649141_ca69b830c4_b.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f981d56daab24ebba0d7defb1a5a20c6'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593978628210@s.whatsapp.net',
+    fromMe: false,
+    id: '41A7A3F48CC1AF94B106573D42BF6A96',
+    participant: undefined
+  },
+  messageTimestamp: 1731927608,
+  pushName: 'Isra',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '593978628210'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a8086f8f-2dbf-4459-a73b-740b4dbeb44b',
+  keyword: 'key_8207e732-b9e5-48a1-97f5-2453ce9e1bc5',
+  answer: '*Claro, ¿Qué es lo que necesitas?*\r\n' +
+    '\r\n' +
+    '*1.- 🧠 Herramientas de IA*\r\n' +
+    '_Aquí tienes un catálogo actualizado con herramientas gratuitas y opciones de pago para ayudar en tu proceso creativo_\r\n' +
+    '\r\n' +
+    '*2.- 💡 Guía de uso*\r\n' +
+    '_Aquí aprenderás a buscar las herramientas que necesites_\r\n' +
+    '\r\n' +
+    '*3.- 🔍 Consultas*\r\n' +
+    '_Habla conmigo para aclarar tus dudas_\r\n' +
+    '\r\n' +
+    '*0.- Salir*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fae07c347d5480975fccebfce3107bd5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593978628210@s.whatsapp.net',
+    fromMe: false,
+    id: 'DDA7BC6E059336DCC201B3743D0F3843',
+    participant: undefined
+  },
+  messageTimestamp: 1731927612,
+  pushName: 'Isra',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '593978628210'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593978628210@s.whatsapp.net',
+    fromMe: false,
+    id: '9E6ED452587BFFA4C4FB7EB9E2CE3003',
+    participant: undefined
+  },
+  messageTimestamp: 1731927651,
+  pushName: 'Isra',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'menu',
+  from: '593978628210'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a8086f8f-2dbf-4459-a73b-740b4dbeb44b',
+  keyword: 'key_8207e732-b9e5-48a1-97f5-2453ce9e1bc5',
+  answer: '*Claro, ¿Qué es lo que necesitas?*\r\n' +
+    '\r\n' +
+    '*1.- 🧠 Herramientas de IA*\r\n' +
+    '_Aquí tienes un catálogo actualizado con herramientas gratuitas y opciones de pago para ayudar en tu proceso creativo_\r\n' +
+    '\r\n' +
+    '*2.- 💡 Guía de uso*\r\n' +
+    '_Aquí aprenderás a buscar las herramientas que necesites_\r\n' +
+    '\r\n' +
+    '*3.- 🔍 Consultas*\r\n' +
+    '_Habla conmigo para aclarar tus dudas_\r\n' +
+    '\r\n' +
+    '*0.- Salir*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fae07c347d5480975fccebfce3107bd5'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593978628210@s.whatsapp.net',
+    fromMe: false,
+    id: '28894BFBE233C6E24BFE49FB9C4964A3',
+    participant: undefined
+  },
+  messageTimestamp: 1731927655,
+  pushName: 'Isra',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '593978628210'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593978628210@s.whatsapp.net',
+    fromMe: false,
+    id: '495955D236CF6FD1D017A464DC82BC04',
+    participant: undefined
+  },
+  messageTimestamp: 1731927665,
+  pushName: 'Isra',
+  broadcast: false,
+  message: Message {
+    conversation: 'no lo sé',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'no lo sé',
+  from: '593978628210'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_f0dc3cca-e3f1-435b-a52b-93e30b23e3f6',
+  keyword: 'key_b3d9fd31-4419-4318-98de-c0d7b36f16c0',
+  answer: '¿Estás un poco perdido? escribe "*menú*" para poder ayudarte',
+  options: {
+    media: 'https://live.staticflickr.com/65535/53996943132_6ce2df4d40_o.png',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3b512636af354c62222ad0b1bd087fbb'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593978628210@s.whatsapp.net',
+    fromMe: false,
+    id: '2F1F5ACA7D4EEEAC59AFF963477C9FAF',
+    participant: undefined
+  },
+  messageTimestamp: 1731927686,
+  pushName: 'Isra',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ciao',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ciao',
+  from: '593978628210'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0dff8e69-554a-42cb-a5ac-7a56573aefeb',
+  keyword: 'key_57ed1141-ace1-4bc8-9ff3-2685f2c3d9eb',
+  answer: 'Ciao a tutti, come stai? mamma mía 🤌',
+  options: {
+    media: 'https://live.staticflickr.com/65535/53991095795_53328e116d_b.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '6c33eacf19eb19be6517a83a8c1a59ed'
+}
